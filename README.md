@@ -31,17 +31,16 @@ Welcome to **Movie Review Sentiment Analysis** (CineSentiment AI), a web applica
    ```bash
    git clone [https://github.com/rohanmistry231/sentiment-analysis-app.git](https://github.com/rohanmistry231/sentiment-analysis-app.git)
    cd sentiment-analysis-app
+     ```
 
-```
 
 2. **Install Dependencies**:
-Create a virtual environment and install the required packages:
-```bash
-python -m venv venv
-source venv/bin/activate  # On Windows: venv\Scripts\activate
-pip install -r requirements.txt
-
-```
+   Create a virtual environment and install the required packages:
+   ```bash
+   python -m venv venv
+   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   pip install -r requirements.txt
+   ```
 
 
 3. **Prepare Model Files**:
